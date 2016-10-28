@@ -1,4 +1,5 @@
 # WSO2 ESB Write Binary File Mediator
+![Build status](https://circleci.com/gh/Mystes/wso2-esb-write-binary-file-mediator.svg?style=shield&circle-token=721eda7bf4cc9593de804cf96b59db705dc916fe)
 
 ## What is WSO2 ESB?
 [WSO2 ESB](http://wso2.com/products/enterprise-service-bus/) is an open source Enterprise Service Bus that enables interoperability among various heterogeneous systems and business applications.
