@@ -10,10 +10,18 @@ E.g. if you have retrieved a BLOB from a database using WSO2 DSS (or a binary fi
 
 ## Usage
 
-### 1. Install the mediator to the ESB
+### 1. Get the WSO2 ESB Write Binary File Mediator
+
+You have two options:
+
+a) Add as a Maven/Gradle/Ivy dependency to your project. Get the dependency snippet from [here](https://bintray.com/mystes/maven/wso2-esb-write-binary-file-mediator/view).
+
+b) Download it manually from [here](https://github.com/Mystes/wso2-esb-write-binary-file-mediator/releases).
+
+### 2. Install the mediator to the ESB
 Copy the `wso2-esb-write-binary-file-mediator-X.Y.Z.jar` to `$WSO2_ESB_HOME/repository/components/dropins/`.
 
-### 2. Use it in your proxies/sequences
+### 3. Use it in your proxies/sequences
 
 ##### Examples
 
